@@ -1,2 +1,2 @@
 # hello-world
-boring repository
+*intéressant* repository
