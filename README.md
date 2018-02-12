@@ -1,3 +1,3 @@
 # hello-world
-*intéressant* repostory
+*intéressant* repository
 ping
